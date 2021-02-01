@@ -1,2 +1,2 @@
-# monitoring-stack
+# Monitoring Stack
 Monitoring stack
